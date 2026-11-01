@@ -10,3 +10,9 @@ assets/demo.gif
 # Local dataset preparation outputs
 reports/phase_2/validation_examples/
 data/analysis_ready/
+
+# Generated Phase 2 reports; keep the written notes tracked
+reports/phase_2/*.csv
+reports/phase_2/*.json
+reports/phase_2/*.txt
+reports/phase_2/validation_examples/
