@@ -7,3 +7,6 @@ data/raw/*
 data/processed/*
 database/*.db
 assets/demo.gif
+# Local dataset preparation outputs
+reports/phase_2/validation_examples/
+data/analysis_ready/
