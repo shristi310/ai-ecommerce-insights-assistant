@@ -16,3 +16,14 @@ reports/phase_2/*.csv
 reports/phase_2/*.json
 reports/phase_2/*.txt
 reports/phase_2/validation_examples/
+
+# Generated SQLite databases and sidecar files
+database/*.db
+database/*.db-*
+database/*.db-journal
+
+# Generated Phase 3 reports
+reports/phase_3/*.json
+
+# Generated analysis-ready data
+data/analysis_ready/
